@@ -1,0 +1,8 @@
+ReactJs
+TailwindCss
+Shadcn-ui
+Zod
+React-hook-form
+Firebase/auth
+Firebase/db
+Framer-Motion
